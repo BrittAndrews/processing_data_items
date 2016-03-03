@@ -1,0 +1,48 @@
+.wrapper{
+	width: 100%;
+	border: 2px solid red;
+}
+
+
+.header {
+	border: 1px solid #ececec;
+	padding: 15px;
+	overflow: hidden;
+	
+}
+
+
+
+span.etsyitems {
+	margin-left: 20px;
+	font-family: arial;
+	color: gray;
+	font-size: large;
+}
+
+
+img {
+	width: 100%;
+	
+}
+
+.grayboxes {
+	background-color: #ccc;
+}
+
+.grayboxes span{
+	display:block;
+	text-align: center;
+	padding: 50px;
+	border: 1px solid gray;
+	font-weight: bold;
+	font-size: x-large;
+	font-family: serif;
+
+
+}
+
+.grayboxes span p {
+	font-size: small;
+	font-weight: normal;
+}
