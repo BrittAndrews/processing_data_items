@@ -1,6 +1,6 @@
 .wrapper{
 	width: 100%;
-	border: 2px solid red;
+	border: 2px solid #ccc;
 }
 
 
@@ -21,6 +21,7 @@ span.etsyitems {
 }
 
 
+
 img {
 	width: 100%;
 	
@@ -30,7 +31,7 @@ img {
 	background-color: #ccc;
 }
 
-.grayboxes span{
+.grayboxes div {
 	display:block;
 	text-align: center;
 	padding: 50px;
@@ -39,10 +40,9 @@ img {
 	font-size: x-large;
 	font-family: serif;
 
-
 }
 
-.grayboxes span p {
-	font-size: small;
+.grayboxes span {
+	font-size: medium;
 	font-weight: normal;
 }
